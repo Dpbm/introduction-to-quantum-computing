@@ -3,5 +3,4 @@ qiskit-aer
 numpy
 matplotlib
 pylatexenc
-qutip
 jupyterlab
