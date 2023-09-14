@@ -4,3 +4,4 @@ numpy
 matplotlib
 pylatexenc
 jupyterlab
+qutip
